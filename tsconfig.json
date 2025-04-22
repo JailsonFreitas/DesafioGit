@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "types": [
+            "cypress",
+            "cypress-xpath",
+            "node",
+        ],
+    }
+}
